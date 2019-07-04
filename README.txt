@@ -1,4 +1,4 @@
-Student: Mingxin Chen, U80752071
+Student: Mingxin Chen
 Project Name: Tic Tac Toe
 
 Classes===========================
